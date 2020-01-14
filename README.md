@@ -1,1 +1,1 @@
-# docker-rpmbuild-centos6
+# docker-rpmbuild-centos
