@@ -4,7 +4,7 @@ FROM almalinux:$ALMA_VERSION
 ARG ALMA_VERSION
 
 LABEL version=${ALMA_VERSION}
-LABEL description="AlmaLinux-${ALMALINUX_VERSION} based rpmbuilding base image"
+LABEL description="AlmaLinux-${ALMA_VERSION} based rpmbuilding base image"
 LABEL maintainer="pablo@evicertia.com"
 LABEL vendor="evicertia"
 
